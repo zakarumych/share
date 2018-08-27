@@ -1,6 +1,8 @@
 [package]
 name = "share"
 version = "0.1.0"
-authors = ["Zakarum <scareaangel@gmail.com>"]
+authors = ["omni-viral <scareaangel@gmail.com>"]
+license = "MIT/Apache-2.0"
+keywords = ["sharing"]
+repository = "https://github.com/omni-viral/share"
 
-[dependencies]
