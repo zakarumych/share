@@ -1,0 +1,6 @@
+[package]
+name = "share"
+version = "0.1.0"
+authors = ["Zakarum <scareaangel@gmail.com>"]
+
+[dependencies]
